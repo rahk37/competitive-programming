@@ -8,6 +8,7 @@ Welcome to the Competitive Programming Algorithms and Solutions repository! Whet
    - [Sorting Algorithms](#sorting-algorithms)
    - [Searching Algorithms](#searching-algorithms)
    - [Data Structures](#data-structures)
+   - [Greedy Algorithms](#greedy-algorithms)
    - [Dynamic Programming](#dynamic-programming)
    - [Graph Algorithms](#graph-algorithms)
 
@@ -39,6 +40,10 @@ Containers for organizing and storing data efficiently in programming:
 ### Greedy Algorithms
 Optimal choices at each step for overall advantage:
 - Prim
+
+### Dynamic Programming
+Optimal problem solving through storing and reusing subproblem solutions:
+- WIP
 
 ### Graph Algorithms
 Traverse and analyze relationships in interconnected data structures:
