@@ -12,29 +12,22 @@ Welcome to the Competitive Programming Algorithms and Solutions repository! Whet
    - [Graph Algorithms](#graph-algorithms)
 
 2. **Problem Solutions**
-   - [Codeforces](#codeforces)
+   - [Kattis](#kattis)
    - [LeetCode](#leetcode)
    - [HackerRank](#hackerrank)
 
 ## Algorithms
 
 ### Sorting Algorithms
-Master the art of sorting with a collection of efficient algorithms including:
-- Bubble Sort
-- Selection Sort
-- Insertion Sort
-- Merge Sort
-- Quick Sort
+Techniques to arrange data in a predetermined order efficiently:
+- WIP
 
 ### Searching Algorithms
-Discover various searching techniques to find elements in arrays and other data structures:
-- Linear Search
-- Binary Search
-- Depth-First Search (DFS)
-- Breadth-First Search (BFS)
+Efficient techniques for locating elements in data structures:
+- Binary Search Tree (BST)
 
 ### Data Structures
-Explore essential data structures that form the backbone of algorithmic problem-solving:
+Containers for organizing and storing data efficiently in programming:
 - Arrays
 - Linked Lists
 - Stacks
@@ -43,35 +36,41 @@ Explore essential data structures that form the backbone of algorithmic problem-
 - Trees (BST, AVL, Segment Tree)
 - Heaps
 
-### Dynamic Programming
-Tackle complex optimization problems using dynamic programming approaches:
-- Fibonacci Series
-- Knapsack Problem
-- Longest Common Subsequence
-- Edit Distance
-- Coin Change
+### Greedy Algorithms
+Optimal choices at each step for overall advantage:
+- Prim
 
 ### Graph Algorithms
-Navigate through graph-based challenges with confidence using these algorithms:
-- Dijkstra's Algorithm
-- Bellman-Ford Algorithm
-- Floyd-Warshall Algorithm
-- Depth-First Search (DFS)
-- Breadth-First Search (BFS)
+Traverse and analyze relationships in interconnected data structures:
+- WIP
 
 ## Problem Solutions
 
-### Codeforces
-Find well-documented solutions to a variety of Codeforces problems, ranging from easy warm-ups to challenging contests.
+### Kattis
+Problems solved:
+- Bachets Game
+- Cinema Crowds
+- DNA
+- Flood It
+- Hailstone
+- Hardwood Species
+- Hermits
+- Hiding Places
+- Kitten Tree
+- Massive
+- Odd A Even B
+- Popularity Contest
+- Problem C
+- Space Mail
+- Varied Amusement
 
 ### LeetCode
-Browse through solutions for LeetCode coding challenges, sharpening your skills in data structures, algorithms, and problem-solving paradigms.
+Problems solved:
+- WIP
 
 ### HackerRank
-Access problem solutions from HackerRank's algorithm domain, covering topics that will enhance your abilities in competitive programming.
-
-## Contributing
-This repository is open to contributions! If you have an algorithm implementation or a well-explained problem solution that you'd like to share, feel free to submit a pull request. Please follow the contribution guidelines outlined in the repository.
+Problems solved:
+- WIP
 
 ## License
 This repository is licensed under the [MIT License](LICENSE), allowing you to use, distribute, and modify the code for educational and non-commercial purposes.
